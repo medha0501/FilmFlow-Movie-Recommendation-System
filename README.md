@@ -1,10 +1,10 @@
 # FilmFlow-Movie-Recommendation-System
 
 The following stacks were used
-1. Backend: Python
-2. Framework: Flask
-3. Frontend: HTML, CSS, JSS
-
+![Python](https://img.shields.io/badge/Python-3.9-blueviolet)
+![Framework](https://img.shields.io/badge/Framework-Flask-red)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews and recommended movies.
 
